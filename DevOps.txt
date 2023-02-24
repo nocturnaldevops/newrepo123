@@ -1,0 +1,7 @@
+Git and Github
+Jenkins
+Prometheus
+Grafana
+kubernetes
+Terraform
+
