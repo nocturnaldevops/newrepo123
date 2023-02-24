@@ -6,4 +6,6 @@ kubernetes
 Terraform
 Ansible
 Puppet
-
+maven
+nexus 
+sonarqube
