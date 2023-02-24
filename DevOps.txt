@@ -4,4 +4,6 @@ Prometheus
 Grafana
 kubernetes
 Terraform
+Ansible
+Puppet
 
